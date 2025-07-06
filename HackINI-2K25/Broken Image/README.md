@@ -32,7 +32,7 @@ This challenge required implementing an image reconstruction algorithm. I chose 
 
 Before settling on SSIM, I tried some algorithms that work based on **edge similarity**, but they didn’t give accurate results. Specifically, the tiles where the flag was located were placed randomly all over the image, as shown below. 
 
-![Edge Similarity image output](./assets/randomized_output.png)
+<img src="./assets/randomized_output.png" alt="Edge Similarity image output" width="50%">
 
 That’s when I thought of using SSIM, as it’s more accurate — but also costly and resource-intensive.
 
