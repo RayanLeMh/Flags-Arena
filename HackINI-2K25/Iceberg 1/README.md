@@ -16,11 +16,11 @@ I started by doing a simple Google search for "Frizouert" which returned several
 
 When I checked the profile's bio section, there it was - the first part of our flag: `shellmates{$oc14l_m3D14_OsinT_`. This confirmed I was on the right track with this Lamine Frizouert individual.
 
-![First flag](first_part.png)
+![First flag](second_part.png)
 
 Knowing flags in these challenges are often split across platforms, I then searched for this person on Instagram. Using variations of "lamine frizouert" led me to an Instagram account **@frizouertlamine**. After carefully checking the profile - the bio, posts, and story highlights, I found the second piece of the flag in the caption of their first post: `IsNt_HaRd}`.
 
-![Second flag](second_part.png)
+![Second flag](first_part.png)
 
 ## Assembling the Flag
 Putting the two parts together from Twitter and Instagram gave us the complete flag:
