@@ -22,8 +22,6 @@ To get the flag, we need to create an image that:
 - ResNet50 classifies as a lion
 - SqueezeNet1.1 classifies as some type of cat
 
-![Challenge Interface](./assets/challenge_interface.png)
-
 ## Solution Approach
 
 This challenge requires creating an adversarial example that fools both models simultaneously. The solution involves:
