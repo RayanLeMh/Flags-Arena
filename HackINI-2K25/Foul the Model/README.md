@@ -151,6 +151,8 @@ After successful adversarial example creation and submission, our flag showed up
 
 **Flag:** `shellmates{W3ak_m0D3L$_AR3_3a2Y_t0_f0O0o0O0oL}`
 
+![Flag reveal](./assets/flag_reveal.png)
+
 ## Technical Challenges Overcome
 
 1. **Dual-Model Optimization**: Balancing perturbations for two different models
